@@ -1,0 +1,25 @@
+{
+  "name": "autophoto",
+  "version": "1.0.0",
+  "description": "Google Photos Automation",
+  "scripts": {
+    "compile": "zip -r -X dist/autophoto.zip src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dleshem/autophoto.git"
+  },
+  "keywords": [
+    "google photos",
+    "automation"
+  ],
+  "author": "Danny Leshem <dleshem@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dleshem/autophoto/issues"
+  },
+  "homepage": "https://github.com/dleshem/autophoto",
+  "devDependencies": {},
+  "dependencies": {},
+  "directories": {}
+}
